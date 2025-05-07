@@ -1,7 +1,8 @@
 [workspace]
 resolver = "3"
-members  = [
-    "services/hello_world"
+members  = [ 
+    "guessing_game",
+    "hello_world"
 ]
 
 [workspace.dependencies]
