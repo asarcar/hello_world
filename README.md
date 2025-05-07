@@ -1,1 +1,1 @@
-Hello World Example
+Rust - test applications kept in a monorepo
